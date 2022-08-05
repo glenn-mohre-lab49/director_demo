@@ -1,4 +1,4 @@
-#### Director + Celery + Redis https://github.com/glenn-mohre-lab49/director_demo
+## Director + Celery + Redis https://github.com/glenn-mohre-lab49/director_demo
 
 Director is a framework for magaging tasks and building workflows using Celery.
 
