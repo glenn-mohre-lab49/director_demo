@@ -1,0 +1,6 @@
+---
+btc.PRICES:
+  tasks:
+    - GET_BTC_PRICE 
+    - PROCESS_PRICES 
+    - SEND_MAIL 
